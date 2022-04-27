@@ -1,1 +1,1 @@
-# bachelor
+# bachelor project
